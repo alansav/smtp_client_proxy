@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net46;</TargetFrameworks>
+    <Title>Smtp Client Proxy</Title>
+    <Authors>Alan Savage</Authors>
+    <Description>Library for using SmtpClient async with interfaces for teasting.</Description>
+    <Copyright>© 2018 Alan Savage</Copyright>
+    <PackageProjectUrl>https://github.com/alansav/smtp_client_proxy</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alansav/smtp_client_proxy</RepositoryUrl>
+    <PackageTags>SmtpClient;async</PackageTags>
+    <PackageId>SmtpClientProxy</PackageId>
+    <Product>Savage.SmtpClientProxy</Product>
+    <!-- Version elements are intentionally empty as they are provided by the build process-->
+    <Version></Version>
+    <PackageVersion></PackageVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <InformationalVersion></InformationalVersion>
+  </PropertyGroup>
+
+</Project>
